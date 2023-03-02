@@ -13,6 +13,7 @@
 ### GitHub Stats:
 
 ![BeAyanK's Stats](https://github-readme-stats.vercel.app/api?username=BeAyanK&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+
 ![BeAyanK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeAyanK&theme=algolia&hide_border=false)
 <!--- ![](https://visitor-badge.laobi.icu/badge?page_id=BeAyanK.BeAyanK) -->
 
@@ -40,15 +41,15 @@
 <img src="https://img.icons8.com/color/40/null/react-native.png"/>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/40/null/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
 <img src="https://img.icons8.com/color/40/null/api.png"/>
-
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/40/null/html-5--v1.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/fluency/40/null/css3.png" alt="css3" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/40/null/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/40/null/my-sql.png" alt="mysql" width="40" height="40"/> </a> 
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/>
-        <img src="https://img.icons8.com/color/40/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/fluency/40/null/jupyter.png"/><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><img src="https://img.icons8.com/color/40/null/gitlab.png"/><img src="https://img.icons8.com/color/40/null/numpy.png"/>
 
-<img src="https://img.icons8.com/color/40/null/ethereum.png"/><img src="https://imgs.search.brave.com/jpBvBJMKLWEGcRYssGL7v80YEKzPumV7jqYesk4eScU/rs:fit:420:400:1/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/NTkwNjU4MzAvYjYy/YmU0ODAtNDVkMi0x/MWVhLTk5ODktODAz/ZGIwZjljNDRk" height="40" width="40"/><img src="https://img.icons8.com/material-rounded/40/9FA8DA/solidity.png"/><img src="https://img.icons8.com/external-black-fill-lafs/40/22C3E6/external-Zilliqa-cryptocurrency-black-fill-lafs.png"/><img src="https://imgs.search.brave.com/AxzB0yNJqO3of3VCwe5Bz9_SsCVAjOr6DQbyK0jeDy8/rs:fit:800:553:1/g:ce/aHR0cHM6Ly9zY2ls/bGEtbGFuZy5vcmcv/aW1hZ2VzL1NjaWxs/YS1sb2dvLW9ubHkt/cC04MDAucG5n" alt="scilla" width="40" height="40" /><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/40/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/fluency/40/null/jupyter.png"/><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><img src="https://img.icons8.com/color/40/null/gitlab.png"/><img src="https://img.icons8.com/color/40/null/numpy.png"/>
+<img src="https://img.icons8.com/fluency/40/null/blockchain-new-logo.png"/>
+<img src="https://img.icons8.com/color/40/null/ethereum.png"/><img src="https://img.icons8.com/material-rounded/40/9FA8DA/solidity.png"/><img src="https://img.icons8.com/external-black-fill-lafs/40/22C3E6/external-Zilliqa-cryptocurrency-black-fill-lafs.png"/><img src="https://imgs.search.brave.com/AxzB0yNJqO3of3VCwe5Bz9_SsCVAjOr6DQbyK0jeDy8/rs:fit:800:553:1/g:ce/aHR0cHM6Ly9zY2ls/bGEtbGFuZy5vcmcv/aW1hZ2VzL1NjaWxs/YS1sb2dvLW9ubHkt/cC04MDAucG5n" alt="scilla" width="40" height="40" /><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
         <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/40/null/figma--v1.png" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/fluency/40/null/adobe-photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 <img src="https://img.icons8.com/fluency/40/null/adobe-lightroom.png"/>
