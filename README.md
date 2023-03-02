@@ -131,11 +131,11 @@
 
 <div align="left">
         <a href="https://www.linkedin.com/in/ayan-khan-work/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-linkedin-2.gif" /></a>
         <a href="mailto:beaayank@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/null/secured-letter.png"/> </a>
-        <a href=https://twitter.com/ChhodoYrr"" target="_blank">
-        <img src="https://img.icons8.com/color/48/null/twitter--v1.png"/> </a>
+        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-gmail-logo.gif" /> </a>
+        <a href="https://twitter.com/ChhodoYrr" target="_blank">
+        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-twitter.gif" /> </a>
 </div>
 <!--
 **BeAyanK/BeAyanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
