@@ -17,7 +17,7 @@
 ### Projects & more:
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=Express-CRUD-app&cache_seconds=86400&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=Digital-Business-Card&cache_seconds=86400&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=travel-journal&cache_seconds=86400&theme=algolia)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=expense-tracker&cache_seconds=86400&theme=algolia)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=Booking-Appointment&cache_seconds=86400&theme=algolia)
 
@@ -131,12 +131,18 @@
 
 <div align="left">
         <a href="https://www.linkedin.com/in/ayan-khan-work/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-linkedin-2.gif" /></a>
         <a href="mailto:beaayank@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/null/secured-letter.png"/> </a>
-        <a href=https://twitter.com/ChhodoYrr"" target="_blank">
-        <img src="https://img.icons8.com/color/48/null/twitter--v1.png"/> </a>
+        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-gmail-logo.gif" /> </a>
+        <a href="https://twitter.com/ChhodoYrr" target="_blank">
+        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-twitter.gif" /> </a>
 </div>
+
+### Thank You! I'll see you again, as...
+
+<img src="https://images.unsplash.com/photo-1586861203927-800a5acdcc4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80" />
+
+### I Have You Now!
 <!--
 **BeAyanK/BeAyanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
