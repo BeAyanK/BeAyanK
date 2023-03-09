@@ -136,6 +136,8 @@
         <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-gmail-logo.gif" /> </a>
         <a href="https://twitter.com/ChhodoYrr" target="_blank">
         <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-twitter.gif" /> </a>
+        <a href="https://medium.com/@ultrainstinct" target="_blank">
+        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/medium.gif" /> </a>
 </div>
 
 ### Thank You! I'll see you again, as...
