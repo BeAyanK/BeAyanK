@@ -17,7 +17,7 @@
 ### Projects & more:
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=Express-CRUD-app&cache_seconds=86400&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=Digital-Business-Card&cache_seconds=86400&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=travel-journal&cache_seconds=86400&theme=algolia)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=expense-tracker&cache_seconds=86400&theme=algolia)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=Booking-Appointment&cache_seconds=86400&theme=algolia)
 
