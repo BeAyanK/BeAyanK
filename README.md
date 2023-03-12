@@ -125,6 +125,9 @@
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
                 <img src="https://img.icons8.com/fluency/40/null/adobe-illustrator.png" alt="illustrator" width="40" height="40"/> 
         </a>
+        <a href="https://helpx.adobe.com/in/xd/get-started.html" target="_blank">
+                <img src="https://img.icons8.com/fluency/40/null/adobe-xd.png" alt="xd">
+        </a>
 </div>
 
 ### Let's Connect:
