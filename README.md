@@ -1,7 +1,7 @@
 ### 👋 Hi there! Surprisingly... I'm a fellow Hooman, and you can call Me Ayan 💆🏻‍♂️
 
 
-- 🔭 I recently completed my Bachelor's in Technology with Computer Science from SISTec-GN, Bhopal. (2022)
+- 🔭 I recently completed my Bachelor's in Technology with Computer Science from Rajiv Gandhi Technical University, Bhopal. (2022)
 - 🌱 I’m currently learning React and it's other frameworks.
 - 👯 I’m looking to collaborate on any project which can be inspiring & creates a difference in the world.
 - 🤔 I’m actively looking for a job/internship, can be Front-end or Back-end.
