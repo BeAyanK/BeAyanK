@@ -145,7 +145,7 @@
 
 ### Thank You! I'll see you again.
 
-<img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/layered-readme.png" />
+<img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/layered-readme.png" width="100%"/>
 <!--
 **BeAyanK/BeAyanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
