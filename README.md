@@ -1,7 +1,7 @@
 ### 👋 Hi there! Surprisingly... I'm a fellow Hooman, and you can call Me Ayan 💆🏻‍♂️
 
 
-- 🔭 I recently completed my Bachelor's in Technology with Computer Science from SISTec-GN, Bhopal. (2022)
+- 🔭 I recently completed my Bachelor's in Technology with Computer Science from Rajiv Gandhi Technical University, Bhopal. (2022)
 - 🌱 I’m currently learning React and it's other frameworks.
 - 👯 I’m looking to collaborate on any project which can be inspiring & creates a difference in the world.
 - 🤔 I’m actively looking for a job/internship, can be Front-end or Back-end.
@@ -125,6 +125,9 @@
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
                 <img src="https://img.icons8.com/fluency/40/null/adobe-illustrator.png" alt="illustrator" width="40" height="40"/> 
         </a>
+        <a href="https://helpx.adobe.com/in/xd/get-started.html" target="_blank">
+                <img src="https://img.icons8.com/fluency/40/null/adobe-xd.png" alt="xd">
+        </a>
 </div>
 
 ### Let's Connect:
@@ -136,6 +139,8 @@
         <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-gmail-logo.gif" /> </a>
         <a href="https://twitter.com/ChhodoYrr" target="_blank">
         <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-twitter.gif" /> </a>
+        <a href="https://medium.com/@ultrainstinct" target="_blank">
+        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/medium.gif" /> </a>
 </div>
 
 ### Thank You! I'll see you again.
