@@ -1,18 +1,27 @@
-### 👋 Hi there! Surprisingly... I'm a fellow Hooman, and you can call Me Ayan 💆🏻‍♂️
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayan 💆🏻‍♂️
+====================================================================================================================================
 
+Web Developer & Designer
+------------------------
 
-- 🔭 I recently completed my Bachelor's in Technology with Computer Science from Rajiv Gandhi Technical University, Bhopal. (2022)
-- 🌱 I’m currently learning React and it's other frameworks.
-- 👯 I’m looking to collaborate on any project which can be inspiring & creates a difference in the world.
-- 🤔 I’m actively looking for a job/internship, can be Front-end or Back-end.
-- ⚡ Fun fact: I'm a Weeeeeeeb!
+*   🌍  I'm based in Bhopal, India.
+*   🔭  I recently completed my Bachelor's in Technology with Computer Science from Rajiv Gandhi Technical University, Bhopal. (2022)
+*   🤔  I’m actively looking for a job/internship, can be Front-end or Back-end.
+*   🖥️  See my portfolio at [MyPortfolio](http://beayank.netlify.app)
+*   ✉️  You can contact me at [beaayank@gmail.com](mailto:beaayank@gmail.com)
+*   🧠  I'm learning React & React-Native in deep.
+*   ⚡  It's a secret, but... I'm Monkey D. Luffy. I'm after the One Piece of this new World.😁 Wanna Come Along? Gomu-Gomu No...
+
 
 ### GitHub Stats:
 
 ![BeAyanK's Stats](https://github-readme-stats.vercel.app/api?username=BeAyanK&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 
 ![BeAyanK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeAyanK&theme=algolia&hide_border=false)
-<!--- ![](https://visitor-badge.laobi.icu/badge?page_id=BeAyanK.BeAyanK) -->
+
+
+<a href="http://www.github.com/BeAyanK"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BeAyanK&bg_color=050E2D&color=ffffff&line=00A6F6&point=2BD492&area_color=000000&area=true&border_radius=5&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 ### Projects & more:
 
@@ -128,6 +137,12 @@
         <a href="https://helpx.adobe.com/in/xd/get-started.html" target="_blank">
                 <img src="https://img.icons8.com/fluency/40/null/adobe-xd.png" alt="xd">
         </a>
+        <a href="https://metamask.io/" target="_blank" rel="noreferrer">
+                <img src="https://img.icons8.com/color/40/null/metamask-logo.png"/>
+        </a>
+        <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="40" height="40" alt="Hardhat" />
+        </a>
 </div>
 
 ### Let's Connect:
@@ -143,12 +158,11 @@
         <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/medium.gif" /> </a>
 </div>
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/beayank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
 ### Thank You! I'll see you again.
 
 <!--<img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/layered-readme.png" width="100%"/> -->
-<!--
-**BeAyanK/BeAyanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:3
-
--->
