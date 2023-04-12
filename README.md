@@ -138,10 +138,16 @@ Web Developer & Designer
                 <img src="https://img.icons8.com/fluency/40/null/adobe-xd.png" alt="xd">
         </a>
         <a href="https://metamask.io/" target="_blank" rel="noreferrer">
-                <img src="https://img.icons8.com/color/40/null/metamask-logo.png"/>
+                <img src="https://img.icons8.com/color/40/null/metamask-logo.png" alt="Metamask"/>
         </a>
         <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="40" height="40" alt="Hardhat" />
+        </a>
+        <a href="https://fleek.co/" target="_blank" rel="noreferrer">
+                <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/049edcb3028a7a231a92" width="40" height="40" alt="Fleek" />
+        </a>
+        <a href="https://filecoin.io/" target="_blank" rel="noreferrer">
+                <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-filecoin.png" alt="Filecoin"/>
         </a>
 </div>
 
