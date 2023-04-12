@@ -143,12 +143,13 @@ Web Developer & Designer
         <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="40" height="40" alt="Hardhat" />
         </a>
-        <a href="https://fleek.co/" target="_blank" rel="noreferrer">
-                <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/049edcb3028a7a231a92" width="40" height="40" alt="Fleek" />
-        </a>
         <a href="https://filecoin.io/" target="_blank" rel="noreferrer">
                 <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-filecoin.png" alt="Filecoin" width="40" height="40"/>
         </a>
+        <a href="https://fleek.co/" target="_blank" rel="noreferrer">
+                <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/049edcb3028a7a231a92" width="40" height="40" alt="Fleek" />
+        </a>
+        
 </div>
 
 ### Let's Connect:
