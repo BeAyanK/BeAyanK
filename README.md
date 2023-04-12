@@ -147,7 +147,7 @@ Web Developer & Designer
                 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/049edcb3028a7a231a92" width="40" height="40" alt="Fleek" />
         </a>
         <a href="https://filecoin.io/" target="_blank" rel="noreferrer">
-                <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-filecoin.png" alt="Filecoin"/>
+                <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-filecoin.png" alt="Filecoin" width="40" height="40"/>
         </a>
 </div>
 
