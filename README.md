@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & Designer
 ------------------------
 
-*   🌍  I'm based in Bhopal, India.
+*   🌍  I'm based in India.
 *   🔭  I recently completed my Bachelor's in Technology with Computer Science from Rajiv Gandhi Technical University, Bhopal. (2022)
 *   🤔  I’m actively looking for a job/internship, can be Front-end or Back-end.
-*   🖥️  See my portfolio at [MyPortfolio](http://beayank.netlify.app)
+*   🖥️  See my portfolio [here](http://beayank.netlify.app)
 *   ✉️  You can contact me at [beaayank@gmail.com](mailto:beaayank@gmail.com)
-*   🧠  I'm learning React & React-Native in deep.
-*   ⚡  It's a secret, but... I'm Monkey D. Luffy. I'm after the One Piece of this new World.😁 Wanna Come Along? Gomu-Gomu No...
+*   🧠  I'm learning Advanced React for now.
+*   ⚡  Wanna know about uncertainities of life - Read Reddit Confessions...
 
 
 ### GitHub Stats:
@@ -20,15 +20,8 @@ Web Developer & Designer
 ![BeAyanK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeAyanK&theme=algolia&hide_border=false)
 
 
-<a href="http://www.github.com/BeAyanK"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BeAyanK&bg_color=050E2D&color=ffffff&line=00A6F6&point=2BD492&area_color=000000&area=true&border_radius=5&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-### Projects & more:
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=Express-CRUD-app&cache_seconds=86400&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=travel-journal&cache_seconds=86400&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=expense-tracker&cache_seconds=86400&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/pin/?username=BeAyanK&repo=Booking-Appointment&cache_seconds=86400&theme=algolia)
 
 
 ### Top Languages:
