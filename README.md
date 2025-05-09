@@ -1,171 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayan 💆🏻‍♂️
-====================================================================================================================================
-
-Web Developer & Designer
-------------------------
-
-*   🌍  I'm based in India.
-*   🔭  I recently completed my Bachelor's in Technology with Computer Science from Rajiv Gandhi Technical University, Bhopal. (2022)
-*   🤔  I’m actively looking for a job/internship, can be Front-end or Back-end.
-*   🖥️  See my portfolio [here](http://beayank.netlify.app)
-*   ✉️  You can contact me at [beaayank@gmail.com](mailto:beaayank@gmail.com)
-*   🧠  I'm learning Advanced React for now.
-*   ⚡  Wanna know about uncertainities of life - Read Reddit Confessions...
+# 💫 About Me:
+🌍  I'm based in India.<br>🔭 I recently completed my Bachelor's of Technology in Computer Science.<br>🤔 I’m actively looking for a job/internship, can be Front-end or Back-end.<br>🖥️  See my portfolio [here](http://beayank.netlify.app)<br>⚡ Fun fact, I'm a classic nerd.
 
 
-### GitHub Stats:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-khan-work/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChhodoYrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beaayank@gmail.com) 
 
-![BeAyanK's Stats](https://github-readme-stats.vercel.app/api?username=BeAyanK&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=flat&logo=remix&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BeAyanK&theme=apprentice&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BeAyanK&theme=apprentice&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeAyanK&theme=apprentice&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![BeAyanK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeAyanK&theme=algolia&hide_border=false)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 👀 Visitors
+![Visitors](https://api.visitorbadge.io/api/visitors?path=BeAyanK&labelColor=%2337d67a&countColor=%23697689&style=flat&labelStyle=none)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/beayank) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paythishooman) 
 
-
-
-
-### Top Languages:
-
-![BeAyanK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeAyanK&theme=algolia&show_icons=true&hide_border=false&layout=compact)
-
-### Languages and Tools:
-
-<div align="center"> 
-        <a href="https://www.python.org" target="_blank"> 
-                <img src="https://img.icons8.com/fluency/40/null/python.png" alt="python" width="40" height="40"/> 
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-                <img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="javascript" width="40" height="40"/> 
-        </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank">
-                <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/ alt="cplusplus" width="40" height="40"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank">
-                <img src="https://img.icons8.com/fluency/48/null/c-programming.png" height="40" width="40" alt="C"/>
-        </a>        
-        <a href="https://www.w3schools.com/java/" target="_blank">
-                <img src="https://img.icons8.com/color/40/null/java-coffee-cup-logo--v1.png" alt="java"/>
-        </a>
-        <a href="https://nodejs.org" target="_blank"> 
-                <img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="nodejs" width="40" height="40"/> 
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction" target="_blank">
-                <img src="https://img.icons8.com/ios/40/ffffff/express-js.png" alt="ExpressJS" height="40" width="40"/>
-        </a>
-        <a href="https://reactjs.org/" target="_blank">
-                <img src="https://img.icons8.com/color/40/null/react-native.png" alt="ReactJS"/>
-        </a>
-        <a href="https://create-react-app.dev/docs/getting-started" target="_blank">
-                <img src="https://create-react-app.dev/img/logo.svg" height="40" width="40" alt="CRA"/>
-        </a>
-        <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
-                <img width="40" height="40" src="https://vitejs.dev/logo.svg" alt="Vite">
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank"> 
-                <img src="https://img.icons8.com/color/40/null/mongodb.png" alt="mongodb" width="40" height="40"/> 
-        </a>
-        <a href="https://www.restapitutorial.com/" target="_blank">
-                <img src="https://img.icons8.com/color/40/null/api.png" alt="Rest API"/>
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank"> 
-                <img src="https://img.icons8.com/color/40/null/html-5--v1.png" alt="html5" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.w3schools.com/css/" target="_blank">
-                <img src="https://img.icons8.com/fluency/40/null/css3.png" alt="css3" width="40" height="40"/>
-        </a>
-        <a href="https://getbootstrap.com" target="_blank">
-                <img src="https://img.icons8.com/color/40/null/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
-        </a>
-        <a href="https://www.mysql.com/" target="_blank"> 
-                <img src="https://img.icons8.com/color/40/null/my-sql.png" alt="mysql" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.netlify.com/" target="_blank">
-                <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" alt"netlify" />
-        </a>        
-        <a href="https://code.visualstudio.com/" target="_blank">
-                <img src="https://img.icons8.com/color/40/null/visual-studio-code-2019.png" alt="VS Code" />
-        </a>
-        <a href="https://jupyter.org/" target="_blank">
-                <img src="https://img.icons8.com/fluency/40/null/jupyter.png" alt="Jupyter" />
-        </a>
-        <a href="https://git-scm.com/" target="_blank"> 
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-        </a>
-        <a href="https://about.gitlab.com/" target="_blank">
-                <img src="https://img.icons8.com/color/40/null/gitlab.png" alt="GitLab"/>
-        </a>
-        <a href="https://numpy.org/" target="_blank">
-                <img src="https://img.icons8.com/color/40/null/numpy.png" alt="numpy" />
-        </a>
-        <a href="https://www.blockchain.com/" target="_blank">
-                <img src="https://img.icons8.com/fluency/40/null/blockchain-new-logo.png" alt="blockchain" />
-        </a>
-        <a href="https://ethereum.org/en/" target="_blank">
-                <img src="https://img.icons8.com/color/40/null/ethereum.png" alt="ethereum" />
-        </a>
-        <a href="https://soliditylang.org/" target="_blank">
-                <img src="https://img.icons8.com/material-rounded/40/9FA8DA/solidity.png" alt="solidity" />
-        </a>
-        <a href="https://www.zilliqa.com/" target="_blank">
-                <img src="https://img.icons8.com/external-black-fill-lafs/40/22C3E6/external-Zilliqa-cryptocurrency-black-fill-lafs.png" alt="zilliqa"/>
-        </a>
-        <a href="https://ide.zilliqa.com/#/" target="_blank">
-                <img src="https://imgs.search.brave.com/AxzB0yNJqO3of3VCwe5Bz9_SsCVAjOr6DQbyK0jeDy8/rs:fit:800:553:1/g:ce/aHR0cHM6Ly9zY2ls/bGEtbGFuZy5vcmcv/aW1hZ2VzL1NjaWxs/YS1sb2dvLW9ubHkt/cC04MDAucG5n" alt="scilla" width="40" height="40" />
-        </a>
-        <a href="https://postman.com" target="_blank">
-                <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman"/>
-        </a>
-        <a href="https://www.figma.com/" target="_blank"> 
-                <img src="https://img.icons8.com/color/40/null/figma--v1.png" alt="figma" width="40" height="40"/> 
-        </a>
-        <a href="https://www.photoshop.com/en" target="_blank"> 
-                <img src="https://img.icons8.com/fluency/40/null/adobe-photoshop.png" alt="photoshop" width="40" height="40"/> 
-        </a> 
-        <a href="https://lightroom.adobe.com/" target="_blank">
-                <img src="https://img.icons8.com/fluency/40/null/adobe-lightroom.png" alt="lightroom"/>
-        </a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-                <img src="https://img.icons8.com/fluency/40/null/adobe-illustrator.png" alt="illustrator" width="40" height="40"/> 
-        </a>
-        <a href="https://helpx.adobe.com/in/xd/get-started.html" target="_blank">
-                <img src="https://img.icons8.com/fluency/40/null/adobe-xd.png" alt="xd">
-        </a>
-        <a href="https://metamask.io/" target="_blank" rel="noreferrer">
-                <img src="https://img.icons8.com/color/40/null/metamask-logo.png" alt="Metamask"/>
-        </a>
-        <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="40" height="40" alt="Hardhat" />
-        </a>
-        <a href="https://filecoin.io/" target="_blank" rel="noreferrer">
-                <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-filecoin.png" alt="Filecoin" width="40" height="40"/>
-        </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                <img src="https://img.icons8.com/color/40/null/firebase.png"/>
-        </a>
-        <a href="https://fleek.co/" target="_blank" rel="noreferrer">
-                <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/049edcb3028a7a231a92" width="40" height="40" alt="Fleek" />
-        </a>
-        
-</div>
-
-### Let's Connect:
-
-<div align="left">
-        <a href="https://www.linkedin.com/in/ayan-khan-work/" target="_blank">
-        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-linkedin-2.gif" /></a>
-        <a href="mailto:beaayank@gmail.com" target="_blank">
-        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-gmail-logo.gif" /> </a>
-        <a href="https://twitter.com/ChhodoYrr" target="_blank">
-        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/icons8-twitter.gif" /> </a>
-        <a href="https://medium.com/@ultrainstinct" target="_blank">
-        <img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/medium.gif" /> </a>
-</div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/beayank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-### Thank You! I'll see you again.
-
-<!--<img src="https://github.com/BeAyanK/BeAyanK/blob/main/git%20icons/layered-readme.png" width="100%"/> -->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
